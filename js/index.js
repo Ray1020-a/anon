@@ -5,7 +5,7 @@ function sendMessage() {
     else{
         var request = new XMLHttpRequest();
         var message = document.getElementById("Textmessage").value;
-        request.open("POST", "https://discord.com/api/webhooks/1089471276000743424/YaPEBLOWd4N9ZmoqGZ3Xa3-Cqi6efFIVPUxYEqQX93V7uhGz82T0-Qsx-nNrmV53pjCc");
+        request.open("POST", "https://discord.com/api/webhooks/1089490137337057351/lZRB-Jih56EdBvv2FWGQfMkzIoBKI2qEv9q6VFtyfINTj_VD46PZ3N4UJbNkhYOuKZ-c");
     
         request.setRequestHeader('Content-type', 'application/json');
     
